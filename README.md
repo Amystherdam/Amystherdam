@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amystherdam
-- 👀 I’m interested in Ruby, Rails, PHP, ADVPL, front-end, database and more, a lot more!
-- 🌱 I’m currently applying my efforts for to meet PHP
+- 👀 I’m interested in Ruby, Rails, front-end, database and more, a lot more!
+- 🌱 I'm currently applying my efforts to improve my Ruby on Rails
 - 💞️ I try to collaborate with evolution colleagues and students by sharing what I know
 - 📫 Talk to me at pro.lucas07@gmail.com and at +5585985336916
