@@ -2,11 +2,6 @@
 - 👀 Eu me interesso por Ruby, Rails, front-end, database e muito mais!
 - 🌱 Conectando outras tecnologias ao Ruby 💎
 ##
-<div>
-  <a href="https://github.com/amystherdam">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amystherdam&count_private=true&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amystherdam&layout=compact&langs_count=6&theme=dracula"/>
-</div>
 
 <div style="display: inline_block">
   <br>
